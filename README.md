@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Intronaut1984
-- 👀 I’m interested in AI
+- 👀 I’m interested in DATA ANALYSIS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with small projects
 - 📫 How to reach me: tiago6tur@gmail.com
