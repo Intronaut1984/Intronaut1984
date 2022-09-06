@@ -2,7 +2,7 @@
 - 👀 I’m interested in DATA ANALYSIS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with small projects
-- 📫 How to reach me: introcode@gmail.com
+- 📫 How to reach me: tiagopereiracode@gmail.com
 
 <!---
 Intronaut1984/Intronaut1984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
